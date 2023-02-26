@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodgers Omondi</h1>
+<h1 align="center">Hi 👋, I'm Rodgers Omondi Ooko</h1>
 <h3 align="center">Full Stack Blockchain Developer and a Technical Writer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omondi8399&label=Profile%20views&color=0e75b6&style=flat" alt="omondi8399" /> </p>
