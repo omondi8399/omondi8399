@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omondi8399&label=Profile%20views&color=0e75b6&style=flat" alt="omondi8399" /> </p>
 
 
-- 🌱 I’m currently building on  **Blockchain Technology**
+- 🌱 I’m currently building on  **Blockchain Technology**.
 
 - 💬 Ask me about **Solidity and React**
 
