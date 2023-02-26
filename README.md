@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently building on  **Blockchain Technology**
 
-- 💬 Ask me about **Solidity and Rust**
+- 💬 Ask me about **Solidity and React**
 
 - 📫 How to reach me **rodgersomondi8399@gmail.com**
 
