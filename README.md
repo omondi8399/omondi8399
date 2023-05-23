@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rodgersomondi8399@gmail.com**
 
-- ⚡ Fun fact **The time develop is now.**
+- ⚡  **The time develop is now.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
