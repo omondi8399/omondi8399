@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rodgersomondi8399@gmail.com**
 
-- ⚡  **The time develop is now.**
+- ⚡  **Tech is amazing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
