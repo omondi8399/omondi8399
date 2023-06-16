@@ -1,5 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height = "50px"> </p></h1>
-, I'm Rodgers Omondi .</h1>
+<h1 align="center"><p> Hi there, I'm Rodgers Omondi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height = "50px"> </p></h1>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jebitok-dev/count.svg" />
+</p>
 <h3 align="center">A Full Stack Blockchain Developer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omondi8399&label=Profile%20views&color=0e75b6&style=flat" alt="omondi8399" /> </p>
