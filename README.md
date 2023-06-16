@@ -1,7 +1,7 @@
 <h1 align="center"><p> Hi there, I'm Rodgers Omondi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height = "50px"> </p></h1>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jebitok-dev/count.svg" />
+  <img src="https://profile-counter.glitch.me/omondi8399/count.svg" />
 </p>
 <h3 align="center">A Full Stack Blockchain Developer .</h3>
 
