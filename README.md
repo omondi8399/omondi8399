@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">A Full Stack Blockchain Developer .</h3>
 
-<h3 align="center"> 🌱 I’m actively building in web3</h3>
+<h3 align="center"> 🌱 I’m building swypt.io</h3>
 
 <h3 align="center"> 💬 Ask me about Solidity and NextJS</h3>
 
