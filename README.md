@@ -6,11 +6,11 @@
 </p>
 <h3 align="center">A Full Stack Blockchain Developer .</h3>
 
-<h3 align="center"> 🌱 I’m building swypt.io</h3>
+<h3 align="center"> 🌱 I’m building <a href="swypt.io">SWYPT</a></h3>
 
-<h3 align="center"> 💬 Ask me about Solidity and NextJS</h3>
+<h3 align="center"> 💬 Ask me about Solidity, Rust and NextJS</h3>
 
-<h3 align="center"> 📫 How to reach me rodgersomondi8399@gmail.com</h3>
+<h3 align="center"> 📫 How to reach me <a href="mailto:rodgersomondi8399@gmail.com">rodgersomondi8399@gmail.com</a></h3>
 
  <h3 align="center">⚡ I want to impact the lives of others using code.</h3>
  
