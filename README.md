@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">A Full Stack Blockchain Developer .</h3>
 
-<h3 align="center"> 🌱 I’m building <a href="https://www.swypt.io/" target="_blank">SWYPT</a></h3>
+<h3 align="center"> 🌱 I’m currently working as a freelancer</h3>
 
 <h3 align="center"> 💬 Ask me about Solidity, Rust and NextJS</h3>
 
@@ -169,4 +169,3 @@
     </td>
   </tr>
 </table>
-
